@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Andrey Rodrigues  
 
-<!--
-**andreyRSilva/andreyRSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Analista de Dados em formação**  
+🎓 Estudante de **Sistemas de Informação** na UNASP  
+📍 Natural do **Rio Grande do Norte** – atualmente com 19 anos  
+🚀 Aqui compartilho meus aprendizados, projetos e experiências no mundo da tecnologia!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Linguagens & Ferramentas  
+
+<p align="center">
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="Jupyter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</p>
+
+---
+
+## 📊 Estatísticas  
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreyRSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyRSilva&layout=compact&langs_count=7&theme=radical&locale=pt-br"/>
+</p>  
+
+---
+
+## 🌎 Onde me encontrar  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-rodrigues-994329274)  
+ 
