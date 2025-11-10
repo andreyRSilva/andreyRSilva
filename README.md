@@ -3,7 +3,7 @@
 💻 Analista de Dados em formação  
 🎓 Estudante de Sistemas de Informação – UNASP  
 📍 Natural do Rio Grande do Norte | 19 anos  
-📊 Apaixonado por dados, programação e soluções que geram impacto  
+📊 Apaixonado por dados e soluções que geram impacto  
 🚀 Compartilho projetos, aprendizados e experiências no universo da tecnologia
 ---
 
