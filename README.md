@@ -1,21 +1,24 @@
-# 👋 Olá, eu sou o Andrey Rodrigues  
+# 👋 Olá, sou Andrey Rodrigues  
 
 💻 **Analista de Dados em formação**  
 🎓 Estudante de **Sistemas de Informação** na UNASP  
-📍 Natural do **Rio Grande do Norte** – atualmente com 19 anos  
+📍 Natural do **Rio Grande do Norte** – atualmente com 19 anos 
+📊 Apaixonado por dados, programação e soluções que geram impacto  
 🚀 Aqui compartilho meus aprendizados, projetos e experiências no mundo da tecnologia!  
 
 ---
 
-## 🔧 Linguagens & Ferramentas  
+## 🔧 Linguagens & Ferramentas
 
 <p align="center">
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img alt="Jupyter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
   <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img alt="Excel" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg">
+  <img alt="Power BI" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg">
+  <img alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </p>
-
 ---
 
 ## 📊 Estatísticas  
