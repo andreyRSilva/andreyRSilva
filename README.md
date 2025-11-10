@@ -21,13 +21,14 @@
 </p>
 ---
 
-## 📊 Estatísticas  
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreyRSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyRSilva&layout=compact&langs_count=7&theme=radical&locale=pt-br"/>
-</p>  
+Aqui estão alguns dados que refletem minha atividade e os principais idiomas que utilizo em meus projetos:
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreyRSilva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyRSilva&layout=compact&langs_count=7&theme=github_dark&locale=pt-br"/>
+</div>
 ---
 
 ## 🌎 Onde me encontrar  
