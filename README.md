@@ -1,11 +1,10 @@
-# 👋 Olá, sou Andrey Rodrigues  
+# 👋 Olá, sou Andrey Rodrigues
 
 💻 **Analista de Dados em formação**  
 🎓 Estudante de **Sistemas de Informação** na UNASP  
-📍 Natural do **Rio Grande do Norte** – atualmente com 19 anos 
-📊 Apaixonado por dados, programação e soluções que geram impacto  
-🚀 Aqui compartilho meus aprendizados, projetos e experiências no mundo da tecnologia!  
-
+📍 Natural do **Rio Grande do Norte** – atualmente com 19 anos  
+📊 **Apaixonado por dados, programação e soluções que geram impacto**  
+🚀 Aqui compartilho meus aprendizados, projetos e experiências no mundo da tecnologia!
 ---
 
 ## 🔧 Linguagens & Ferramentas
