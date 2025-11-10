@@ -4,7 +4,7 @@
 🎓 Estudante de Sistemas de Informação – UNASP - Hortolândia  
 📍 Natural do Rio Grande do Norte | 19 anos  
 📊 Apaixonado por dados e soluções que geram impacto  
-🚀 Compartilho projetos, aprendizados e experiências no universo da tecnologia
+🚀 Aqui compartilho projetos, aprendizados e experiências no universo dos dados
 ---
 
 ## 🔧 Linguagens & Ferramentas
