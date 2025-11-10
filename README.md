@@ -21,19 +21,19 @@
 </p>
 ---
 
-## 📊 Estatísticas do GitHub
 
-Aqui estão alguns dados que refletem minha atividade e os principais idiomas que utilizo em meus projetos:
+## 🌎 Onde me encontrar
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreyRSilva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyRSilva&layout=compact&langs_count=7&theme=github_dark&locale=pt-br"/>
-</div>
----
-
-## 🌎 Onde me encontrar  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-rodrigues-994329274)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreyrodrigues09112005@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrey-rodrigues-994329274" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:andreyrodrigues09112005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://portifolio-andrey-rodrigues1.webnode.page/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfólio"/>
+  </a>
+</p>
 
 
